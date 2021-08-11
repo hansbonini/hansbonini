@@ -26,7 +26,7 @@
 <a href="https://github.com/hansbonini/kaiser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=kaiser" />
 </a>
-<a href="https://github.com/hansbonini/pynes">
+<a href="https://github.com/hansbonini/pynes-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=pynes-dev" />
 </a>
 
