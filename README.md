@@ -1,4 +1,4 @@
-### Hans Bonini
+## Hans Bonini
  <div>
   <a href="https://github.com/hansbonini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hansbonini&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
@@ -21,14 +21,31 @@
   <img align="center" alt="CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
-##
+### Emulators
 
 <a href="https://github.com/hansbonini/kaiser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=kaiser" />
 </a>
+
+### Romhacking
+#### Sega Genesis
 <a href="https://github.com/hansbonini/smd_beyondoasis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_beyondoasis" />
+</a>
+<a href="https://github.com/hansbonini/smd_castlevania_bloodlines">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_castlevania_bloodlines" />
+</a>
+<a href="https://github.com/hansbonini/smd_phantasy_star_3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_phantasy_star_3" />
+</a>
+<a href="https://github.com/hansbonini/smd_castlevania_bloodlines">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_castlevania_bloodlines" />
+</a>
+<a href="https://github.com/hansbonini/smd_rolling_thunder_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_rolling_thunder_2" />
 </a>
 <a href="https://github.com/hansbonini/gba_spiderman_3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=gba_spiderman_3" />
 </a>
+smd_castlevania_bloodlines
+
