@@ -22,7 +22,6 @@
 </div>
 
 ### Emulators
-
 <a href="https://github.com/hansbonini/kaiser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=kaiser" />
 </a>
@@ -44,6 +43,8 @@
 <a href="https://github.com/hansbonini/smd_rolling_thunder_2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_rolling_thunder_2" />
 </a>
+
+### Game Boy Advanced
 <a href="https://github.com/hansbonini/gba_spiderman_3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=gba_spiderman_3" />
 </a>
