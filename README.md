@@ -22,12 +22,14 @@
 </div>
 
 ### Emulators
+
 <a href="https://github.com/hansbonini/kaiser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=kaiser" />
 </a>
 
 ### Romhacking
 #### Sega Genesis
+
 <a href="https://github.com/hansbonini/smd_beyondoasis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_beyondoasis" />
 </a>
@@ -45,7 +47,23 @@
 </a>
 
 ### Game Boy Advanced
+
 <a href="https://github.com/hansbonini/gba_spiderman_3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=gba_spiderman_3" />
 </a>
+<a href="https://github.com/hansbonini/gba_pokemon_emerald">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=gba_pokemon_emerald" />
+</a>
+
+### Nintendo DS
+
+<a href="https://github.com/hansbonini/nds_professor_layton">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=nds_professor_layton" />
+</a>
+
+### Nintendo Wii
+<a href="https://github.com/hansbonini/-WII-Bomberman-JP-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=-WII-Bomberman-JP-" />
+</a>
+
 
