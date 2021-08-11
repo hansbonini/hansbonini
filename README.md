@@ -24,51 +24,51 @@
 ### Emulators
 
 <a href="https://github.com/hansbonini/kaiser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=kaiser" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=kaiser&theme=gruvbox" />
 </a>
 <a href="https://github.com/hansbonini/pynes-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=pynes-dev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=pynes-dev&theme=gruvbox" />
 </a>
 
 ### Romhacking
 #### Sega Genesis
 
 <a href="https://github.com/hansbonini/smd_beyondoasis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_beyondoasis" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_beyondoasis&theme=gruvbox" />
 </a>
 <a href="https://github.com/hansbonini/smd_castlevania_bloodlines">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_castlevania_bloodlines" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_castlevania_bloodlines&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/hansbonini/smd_phantasy_star_3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_phantasy_star_3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_phantasy_star_3&theme=gruvbox" />
 </a>
 <a href="https://github.com/hansbonini/smd_swordofvermilion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_swordofvermilion" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_swordofvermilion&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/hansbonini/smd_rolling_thunder_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_rolling_thunder_2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_rolling_thunder_2&theme=gruvbox" />
 </a>
 
 ### Game Boy Advanced
 
 <a href="https://github.com/hansbonini/gba_spiderman_3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=gba_spiderman_3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=gba_spiderman_3&theme=gruvbox" />
 </a>
 <a href="https://github.com/hansbonini/gba_pokemon_emerald">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=gba_pokemon_emerald" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=gba_pokemon_emerald&theme=gruvbox" />
 </a>
 
 ### Nintendo DS
 
 <a href="https://github.com/hansbonini/nds_professor_layton">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=nds_professor_layton" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=nds_professor_layton&theme=gruvbox" />
 </a>
 
 ### Nintendo Wii
 <a href="https://github.com/hansbonini/-WII-Bomberman-JP-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=-WII-Bomberman-JP-" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=-WII-Bomberman-JP-&theme=gruvbox" />
 </a>
 
 
