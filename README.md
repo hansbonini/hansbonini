@@ -26,6 +26,7 @@
 <a href="https://github.com/hansbonini/kaiser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=kaiser&theme=gruvbox" />
 </a>
+
 <a href="https://github.com/hansbonini/pynes-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=pynes-dev&theme=gruvbox" />
 </a>
@@ -36,6 +37,7 @@
 <a href="https://github.com/hansbonini/smd_beyondoasis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_beyondoasis&theme=gruvbox" />
 </a>
+
 <a href="https://github.com/hansbonini/smd_castlevania_bloodlines">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_castlevania_bloodlines&theme=gruvbox" />
 </a>
@@ -43,6 +45,7 @@
 <a href="https://github.com/hansbonini/smd_phantasy_star_3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_phantasy_star_3&theme=gruvbox" />
 </a>
+
 <a href="https://github.com/hansbonini/smd_swordofvermilion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_swordofvermilion&theme=gruvbox" />
 </a>
@@ -56,6 +59,7 @@
 <a href="https://github.com/hansbonini/gba_spiderman_3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=gba_spiderman_3&theme=gruvbox" />
 </a>
+
 <a href="https://github.com/hansbonini/gba_pokemon_emerald">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=gba_pokemon_emerald&theme=gruvbox" />
 </a>
