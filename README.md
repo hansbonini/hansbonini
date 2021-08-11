@@ -5,6 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansbonini&layout=compact&langs_count=7&theme=gruvbox" />
  </a>
 </div>
+
+##
+
 <div style="display: inline_block; text-align: center">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -18,6 +21,14 @@
   <img align="center" alt="CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=kaiser" />
+##
+
+<a href="https://github.com/hansbonini/kaiser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=kaiser" />
+</a>
+<a href="https://github.com/hansbonini/smd_beyondoasis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_beyondoasis" />
+</a>
+<a href="https://github.com/hansbonini/gba_spiderman_3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=gba_spiderman_3" />
 </a>
