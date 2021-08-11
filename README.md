@@ -39,12 +39,14 @@
 <a href="https://github.com/hansbonini/smd_castlevania_bloodlines">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_castlevania_bloodlines" />
 </a>
+
 <a href="https://github.com/hansbonini/smd_phantasy_star_3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_phantasy_star_3" />
 </a>
 <a href="https://github.com/hansbonini/smd_swordofvermilion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_swordofvermilion" />
 </a>
+
 <a href="https://github.com/hansbonini/smd_rolling_thunder_2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_rolling_thunder_2" />
 </a>
