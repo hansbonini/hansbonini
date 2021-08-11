@@ -26,6 +26,9 @@
 <a href="https://github.com/hansbonini/kaiser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=kaiser" />
 </a>
+<a href="https://github.com/hansbonini/pynes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=pynes" />
+</a>
 
 ### Romhacking
 #### Sega Genesis
