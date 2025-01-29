@@ -9,6 +9,7 @@
 ##
 
 <div style="display: inline_block; text-align: center">
+ <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/go-plain.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -34,7 +35,7 @@
 ### Romhacking
 #### Sega Genesis
 
-<a href="https://github.com/hansbonini/smd_rolling_thunder_2">
+<a href="https://github.com/hansbonini/smd_alteredbeast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_alteredbeast&theme=gruvbox" />
 </a>
 
