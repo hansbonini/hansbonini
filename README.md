@@ -9,7 +9,7 @@
 ##
 
 <div style="display: inline_block; text-align: center">
- <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/go-plain.svg" />
+ <img align="center" alt="GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/golang-plain.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
