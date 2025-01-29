@@ -34,6 +34,10 @@
 ### Romhacking
 #### Sega Genesis
 
+<a href="https://github.com/hansbonini/smd_rolling_thunder_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_alteredbeast&theme=gruvbox" />
+</a>
+
 <a href="https://github.com/hansbonini/smd_beyondoasis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hansbonini&repo=smd_beyondoasis&theme=gruvbox" />
 </a>
